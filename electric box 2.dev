@@ -1,0 +1,59 @@
+[Project]
+FileName=electric box 2.dev
+Name=electric box
+UnitCount=1
+Type=0
+Ver=1
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Project1_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=-lalfont -lalleg_@@_
+IsCpp=1
+Icon=electric box 2.ico
+ExeOutput=
+ObjectOutput=
+OverrideOutput=1
+OverrideOutputName=electric box 2.exe
+HostApplication=
+Folders=
+CommandLine=
+UseCustomMakefile=0
+CustomMakefile=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000001000000
+
+[Unit1]
+FileName=electric.cpp
+CompileCpp=1
+Folder=electric box
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[VersionInfo]
+Major=0
+Minor=1
+Release=1
+Build=1
+LanguageID=2057
+CharsetID=1252
+CompanyName=
+FileVersion=2.0.0
+FileDescription=shocking !!!
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=eleectric box 2
+ProductVersion=2.0.0
+AutoIncBuildNr=0
+
